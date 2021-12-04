@@ -1,0 +1,16 @@
+*{
+    margin: 1%;
+}
+h1{
+    text-align: center;
+    font-size:50px;
+    color:red;
+}
+
+.cards{
+    display: relative;
+}
+.card{
+    display: inline-block;
+}
+p {  font-size: 29px; font-family: "Libre Baskerville", serif; line-height: 45px;text-shadow: 0 1px 1px #fff; padding-top: 20px; }
